@@ -1,5 +1,3 @@
-# README
-
 ## DOOM.rs: A Rust Implementation of DOOM
 
 ---
