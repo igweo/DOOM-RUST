@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "doom-rust"
+name = "doom-rs"
 version = "0.1.0"
