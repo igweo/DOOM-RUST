@@ -1,6 +1,4 @@
-# README
-
-## DOOM-RUST: A Rust Implementation of DOOM
+## DOOM.rs: A Rust Implementation of DOOM
 
 ---
 
@@ -21,7 +19,7 @@ This implementation replicates key features of the original DOOM engine:
 
 ### Requirements
 
-To build and run DOOM-RUST, the following are required:
+To build and run DOOM.rs, the following are required:
 
 - **Rust**: A stable version of the Rust compiler and Cargo.
 - **SDL2**: For windowing, input handling, and audio playback.
@@ -97,4 +95,4 @@ The project is organized into modular subsystems for clarity and scalability:
 
 ### License
 
-DOOM-RUST is licensed under the GNU General Public License (GPL). Refer to the LICENSE file for details. Note that using original WAD files requires adherence to their respective copyright and licensing terms.
+DOOM.rs is licensed under the GNU General Public License (GPL). Refer to the LICENSE file for details. Note that using original WAD files requires adherence to their respective copyright and licensing terms.
