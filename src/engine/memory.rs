@@ -49,6 +49,7 @@ struct Block {
     pub data: [u8; 64],               // The actual memory content of the block (fixed size).
 }
 
+/// TODO
 impl Block {
     fn new() -> Self {
         const SIZE: u8 = 64;
