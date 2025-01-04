@@ -4,7 +4,7 @@
 
 ### Features
 
-This implementation replicates key features of the original DOOM engine:
+This implementation aims replicates key features of the original DOOM engine:
 
 - Rendering of 2.5D environments using a BSP-based level structure.
 - Full support for WAD files to load original DOOM assets and levels.
